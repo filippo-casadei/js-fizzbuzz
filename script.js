@@ -18,3 +18,9 @@
 // - Con console.log chiediamo, all'interno di un IF(multiplo di 3e5) + ELSE IF(multiplo
 // di 3) + ELSE IF(multiplo di 5) + ELSE(tutti gli altri numeri) di stampare il risultato
 // inserendo Fizz, Buzz o FizzBuzz.
+
+
+// primo ciclo che stampa i numeri da 1 a 100.
+for (let numero = 1; numero <= 100; numero ++) {
+    console.log(numero);
+}
